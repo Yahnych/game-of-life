@@ -1,0 +1,24 @@
+{
+  "name": "gameoflife",
+  "version": "1.0.0",
+  "description": "Game of life on react.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "start-server": "serve -s build"
+  },
+  "keywords": [
+    "gameoflife",
+    "react",
+    "reactjs"
+  ],
+  "author": "schibir",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1"
+  },
+  "devDependencies": {
+    "serve": "^6.4.9"
+  }
+}
